@@ -1,5 +1,14 @@
+# Konichiwa 👋
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+</div>
+
+</br>
+</br>
+</br>
+
 # 💫 About Me:
-I am a full-stack developer. Currently learning AI, happy to collaborate and contribute.
+I am a full-stack developer from India. Currently learning AI, happy to collaborate and contribute.
 
 
 ## 🌐 Socials:
