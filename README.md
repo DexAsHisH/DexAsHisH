@@ -6,7 +6,7 @@
 </br>
 
 # 💫 About Me:
-I am a full-stack developer from India. Currently learning AI, happy to collaborate and contribute.
+I am a full-stack developer from India. Fascinating about AI, happy to collaborate and contribute.
 
 
 ## 🌐 Socials:
