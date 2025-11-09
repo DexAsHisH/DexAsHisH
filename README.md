@@ -1,24 +1,120 @@
-# Konichiwa 👋
-<div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
-</div>
-</br>
-</br>
-
-# 💫 About Me:
-I am a full-stack developer from India. Fascinating about AI, happy to collaborate and contribute.
-
-
-## 🌐 Socials:
-[![Webiste](https://img.shields.io/badge/Website%20-8A2BE2)](https://ashishdabral.in/) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/@me) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashish-dabral-6428ba195/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@dabral-ashish) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/dabral_ashishh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashishdabral2014@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-## 💰 You can help me by donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/ashishdabral) 
-****
-
-
+<div>
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# こんにちは (Konichiwa) 👋
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=8A2BE2&center=true&width=450&lines=Hi%2C+I'm+Ashish+Dabral;I'm+a+Full-Stack+Developer;I+love+AI+%26+Open-Source" />
+</div>
+<div align="center" >
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXZwM2FyanRlajR0aGdhenV0djQ3YzB0Mng5dGp6MjZrM2t4Z3VjdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8DTnuPhxv0m4w/giphy.gif" height="400" width="700" alt="Coding GIF">
+  &nbsp;&nbsp;
+</div>
+
+
+<div align="center">
+  
+[![Website](https://img.shields.io/badge/🌐_Website-8A2BE2?style=for-the-badge)](https://ashishdabral.in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-dabral-6428ba195/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashishdabral2014@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dabral-ashish)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dabral_ashishh)
+</div>
+
+
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWtoNmd6MDl2dnVqdTU5NGpobWpyM3hwNDgwZGRpZTM1Nmh0b25peCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PAuDiTd7DLwYagLGH3/giphy.gif" height="100" width="80"> About Me 
+
+<table>
+<tr>
+<td width="55%">
+  
+### 👨‍💻 Who I Am
+Full-Stack Developer passionate about creating elegant solutions to complex problems. I love working at the intersection of design and functionality, bringing ideas to life through clean, efficient code.
+
+### 🎯 Current Focus
+Building scalable web applications with a modern tech stack and exploring the fascinating world of AI/ML integration.
+
+</td>
+<td width="50%">
+
+### 💡 Interests
+- 🤖 Generative AI
+- 🌐 Full-Stack Web Development
+- 🔧 DevOps & Cloud Architecture
+- 🎨 UI/UX Design
+- 📚 Open Source Contribution
+
+### 🤝 Let's Collaborate!
+Always open to interesting projects and innovative ideas. Feel free to reach out!
+
+</td>
+</tr>
+</table>
+
+
+## <img src="https://i.pinimg.com/originals/4f/d0/c0/4fd0c049c173c9beb5a0101a84deb6f9.gif" height="100" width="80"> Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+### Tools & Technologies
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjI4dXJna2Y0ZXMyNHRzNDQxbzEzbjZxeXpmc3ZzZXBxejZiMDJydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FX5aKofPgom36xXCSe/giphy.gif" height="100" width="80"> GitHub Trophies
+
+<div align="center">
+  
+![Trophies](https://github-profile-trophy.vercel.app/?username=Xx-Ashutosh-xX&theme=radical&no-frame=true&no-bg=true&row=1&column=7)
+
+</div>
+
+
+## <img src="https://25.media.tumblr.com/tumblr_mcu41dXz3P1qgd7tso1_500.gif" height="100" width="80"> Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHJyMmNqcG1jYnhybDM1dzdsNDF1eW5mNGIzZmpsbjJpcXkxdXJnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LM1dM95kwccNJWkovq/giphy.gif" height="100" width="80"> Support My Work
+
+If you like what I do, consider buying me a coffee! ☕
+
+<div align="center">
+  
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ashishdabral)
+
+</div>
+
+
+<div align="center">
+  
+### 💜 Thanks for visiting! Let's connect and build something amazing together!
+
+![Profile Views](https://komarev.com/ghpvc/?username=Xx-Ashutosh-xX&color=8A2BE2&style=flat-square&label=Profile+Views)
+</div>
