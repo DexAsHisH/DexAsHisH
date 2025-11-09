@@ -1,31 +1,30 @@
-<div>
-  
-# こんにちは (Konichiwa) 👋
+
+<h1 align="center">こんにちは (Konnichiwa) 👋</h1>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=8A2BE2&center=true&width=450&lines=Hi%2C+I'm+Ashish+Dabral;I'm+a+Full-Stack+Developer;I+love+AI+%26+Open-Source" />
 </div>
 <div align="center" >
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXZwM2FyanRlajR0aGdhenV0djQ3YzB0Mng5dGp6MjZrM2t4Z3VjdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8DTnuPhxv0m4w/giphy.gif" height="400" width="700" alt="Coding GIF">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXZwM2FyanRlajR0aGdhenV0djQ3YzB0Mng5dGp6MjZrM2t4Z3VjdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8DTnuPhxv0m4w/giphy.gif" height="320" alt="Coding GIF">
   &nbsp;&nbsp;
 </div>
 
+<p align="center">
+  <a href="https://ashishdabral.in/"><img src="https://img.shields.io/badge/🌐_Website-8A2BE2?style=for-the-badge"></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/ashish-dabral-6428ba195/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  &nbsp;
+  <a href="mailto:ashishdabral2014@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  &nbsp;
+  <a href="https://medium.com/@dabral-ashish"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+  &nbsp;
+  <a href="https://x.com/dabral_ashishh"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+</p>
 
-<div align="center">
-  
-[![Website](https://img.shields.io/badge/🌐_Website-8A2BE2?style=for-the-badge)](https://ashishdabral.in/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-dabral-6428ba195/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashishdabral2014@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dabral-ashish)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dabral_ashishh)
-</div>
-
-
-## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWtoNmd6MDl2dnVqdTU5NGpobWpyM3hwNDgwZGRpZTM1Nmh0b25peCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PAuDiTd7DLwYagLGH3/giphy.gif" height="100" width="80"> About Me 
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWtoNmd6MDl2dnVqdTU5NGpobWpyM3hwNDgwZGRpZTM1Nmh0b25peCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PAuDiTd7DLwYagLGH3/giphy.gif" height="60"  alt="pokemon GIF"> About Me 
 
 <table>
 <tr>
-<td width="55%">
+<td width="50%">
   
 ### 👨‍💻 Who I Am
 Full-Stack Developer passionate about creating elegant solutions to complex problems. I love working at the intersection of design and functionality, bringing ideas to life through clean, efficient code.
@@ -51,7 +50,7 @@ Always open to interesting projects and innovative ideas. Feel free to reach out
 </table>
 
 
-## <img src="https://i.pinimg.com/originals/4f/d0/c0/4fd0c049c173c9beb5a0101a84deb6f9.gif" height="100" width="80"> Tech Stack
+## <img src="https://i.pinimg.com/originals/4f/d0/c0/4fd0c049c173c9beb5a0101a84deb6f9.gif" height="60" alt="pokemon GIF"> Tech Stack
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -83,7 +82,7 @@ Always open to interesting projects and innovative ideas. Feel free to reach out
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjI4dXJna2Y0ZXMyNHRzNDQxbzEzbjZxeXpmc3ZzZXBxejZiMDJydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FX5aKofPgom36xXCSe/giphy.gif" height="100" width="80"> GitHub Trophies
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjI4dXJna2Y0ZXMyNHRzNDQxbzEzbjZxeXpmc3ZzZXBxejZiMDJydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FX5aKofPgom36xXCSe/giphy.gif" height="60" alt="pokemon GIF"> GitHub Trophies
 
 <div align="center">
   
@@ -91,8 +90,7 @@ Always open to interesting projects and innovative ideas. Feel free to reach out
 
 </div>
 
-
-## <img src="https://25.media.tumblr.com/tumblr_mcu41dXz3P1qgd7tso1_500.gif" height="100" width="80"> Dev Quote
+## <img src="https://25.media.tumblr.com/tumblr_mcu41dXz3P1qgd7tso1_500.gif" height="60" alt="pokemon gif"> Dev Quote
 
 <div align="center">
 
@@ -100,8 +98,7 @@ Always open to interesting projects and innovative ideas. Feel free to reach out
 
 </div>
 
-
-## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHJyMmNqcG1jYnhybDM1dzdsNDF1eW5mNGIzZmpsbjJpcXkxdXJnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LM1dM95kwccNJWkovq/giphy.gif" height="100" width="80"> Support My Work
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHJyMmNqcG1jYnhybDM1dzdsNDF1eW5mNGIzZmpsbjJpcXkxdXJnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LM1dM95kwccNJWkovq/giphy.gif" height="60" alt="pokemon GIF"> Support My Work
 
 If you like what I do, consider buying me a coffee! ☕
 
@@ -110,8 +107,6 @@ If you like what I do, consider buying me a coffee! ☕
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ashishdabral)
 
 </div>
-
-
 <div align="center">
   
 ### 💜 Thanks for visiting! Let's connect and build something amazing together!
