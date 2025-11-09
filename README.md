@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=8A2BE2&center=true&width=450&lines=Hi%2C+I'm+Ashish+Dabral;I'm+a+Full-Stack+Developer;I+love+AI+%26+Open-Source" />
 </div>
 <div align="center" >
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXZwM2FyanRlajR0aGdhenV0djQ3YzB0Mng5dGp6MjZrM2t4Z3VjdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8DTnuPhxv0m4w/giphy.gif" height="320" alt="Coding GIF">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnhxcThpbDJzdGl3bG1xdDZubWNiN3czZ3h2OW15ZjBwd3IwcHMyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WkeXjFoubG449UdbGh/giphy.gif" height="320" alt="Coding GIF">
   &nbsp;&nbsp;
 </div>
 
